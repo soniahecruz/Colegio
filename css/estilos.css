@@ -1,0 +1,32 @@
+body{
+    width: 99%;
+    align-content: center;
+    margin-left: 5px;
+}
+img {
+    float: right;
+
+}
+h1 {
+    text-align: center;
+    margin-top: ;
+}
+h4 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: beige;
+}
+.contacto {
+    margin-top: 50px;
+    display: outside;
+    text-align: center;
+    
+}
+       
